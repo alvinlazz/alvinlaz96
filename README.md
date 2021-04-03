@@ -8,7 +8,7 @@ alvinlaz96/alvinlaz96 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 #![Alvin Lazar Banner](https://raw.githubusercontent.com/alvinlaz96/alvinlaz96/main/assets/Alvin.png)
 --->
-<img alt="Night Coding" src="https://raw.githubusercontent.com/alvinlaz96/alvinlaz96/main/assets/Night-Coding.gif" align="center"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/alvinlaz96/alvinlaz96/main/assets/Night-Coding.gif" align="auto"/>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
