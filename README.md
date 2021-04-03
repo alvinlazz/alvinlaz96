@@ -7,7 +7,8 @@
 alvinlaz96/alvinlaz96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Alvin Lazar Banner](https://raw.githubusercontent.com/alvinlaz96/alvinlaz96/main/assets/Alvin.png)
+#![Alvin Lazar Banner](https://raw.githubusercontent.com/alvinlaz96/alvinlaz96/main/assets/Alvin.png)
+<img alt="Night Coding" src="https://raw.githubusercontent.com/alvinlaz96/alvinlaz96/main/assets/Night-Coding.gif" align="center"/>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -18,8 +19,6 @@ You can click the Preview link to take a look at your changes.
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at alvinlaz96@yahoo.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions!
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/alvinlaz96/alvinlaz96/main/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
