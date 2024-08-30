@@ -4,11 +4,11 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me alvinlaz96@yahoo.com
-alvinlaz96/alvinlaz96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+alvinlazz/alvinlazz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-#![Alvin Lazar Banner](https://raw.githubusercontent.com/alvinlaz96/alvinlaz96/main/assets/Alvin.png)
+#![Alvin Lazar Banner](https://raw.githubusercontent.com/alvinlazz/alvinlaz96/main/assets/Alvin.png)
 --->
-<img alt="Night Coding" src="https://raw.githubusercontent.com/alvinlaz96/alvinlaz96/main/assets/Night-Coding.gif" align="auto"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/alvinlazz/alvinlaz96/main/assets/Night-Coding.gif" align="auto"/>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -38,9 +38,9 @@ You can click the Preview link to take a look at your changes.
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/alvinlaz96">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alvinlaz96&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alvinlaz96&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/alvinlazz">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alvinlazz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alvinlazz&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
