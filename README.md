@@ -6,9 +6,9 @@
 - 📫 How to reach me alvinlaz96@yahoo.com
 alvinlazz/alvinlazz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-#![Alvin Lazar Banner](https://raw.githubusercontent.com/alvinlazz/alvinlaz96/main/assets/Alvin.png)
+#![Alvin Lazar Banner](https://raw.githubusercontent.com/alvinlazz/alvinlazz/main/assets/Alvin.png)
 --->
-<img alt="Night Coding" src="https://raw.githubusercontent.com/alvinlazz/alvinlaz96/main/assets/Night-Coding.gif" align="auto"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/alvinlazz/alvinlazz/main/assets/Night-Coding.gif" align="auto"/>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 🌱 &nbsp;I'm on track for learning more about Linux Stuffs, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I'm Playing Games & Drawing Pictures.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at alvinlaz96@yahoo.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at alvin@seatec.uu.me! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions!
 
 ### 🛠 &nbsp;Tech Stack
