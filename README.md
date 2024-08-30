@@ -13,26 +13,28 @@ You can click the Preview link to take a look at your changes.
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop scripting solutions and quick hacks.\
-🎓 &nbsp;I'm pursued Computer Science from APJ Abdul Kalam Technological University kerala.\
+🎓 &nbsp;I'm pursued Masters in Computer Science.\
 🌱 &nbsp;I'm on track for learning more about Linux Stuffs, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I'm Playing Games & Drawing Pictures.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at alvin@seatec.uu.me! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions!
-
+✉️ &nbsp;You can shoot me an email at alvin@seatec.uu.me! I'll try to respond as soon as I can.
+<!---📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions!
+--->
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Bash](https://img.shields.io/badge/Bash-05122A?style=flat&logo=gnu-bash)
+![PowerShell](https://img.shields.io/badge/PowerShell-05122A?style=flat&logo=powershell)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Linux](https://img.shields.io/badge/-linux-05122A?style=flat&logo=linux)&nbsp;
-![Googleappscript](https://img.shields.io/badge/-Googleappscript-05122A?style=flat&logo=Google)&nbsp;
-![Latex Writer](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![Google Apps Script](https://img.shields.io/badge/-Google%20Apps%20Script-05122A?style=flat&logo=google)&nbsp;
+![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?style=flat&logo=latex)&nbsp;
 ![cPanel](https://img.shields.io/badge/-cPanel-05122A?style=flat&logo=cpanel)&nbsp;
-![plesk](https://img.shields.io/badge/-plesk-05122A?style=flat&logo=plesk)&nbsp;
-![Mongodb](https://img.shields.io/badge/-Mongodb-05122A?style=flat&logo=mongodb)
+![Plesk](https://img.shields.io/badge/-Plesk-05122A?style=flat&logo=plesk)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 
 
 ### ⚙️ &nbsp;GitHub Analytics
