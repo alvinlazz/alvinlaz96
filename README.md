@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Google Apps Script](https://img.shields.io/badge/-Google%20Apps%20Script-05122A?style=flat&logo=google)&nbsp;
+![Google Apps Script](https://img.shields.io/badge/-GApps%20Script-05122A?style=flat&logo=google)&nbsp;
 ![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?style=flat&logo=latex)&nbsp;
 ![cPanel](https://img.shields.io/badge/-cPanel-05122A?style=flat&logo=cpanel)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
